@@ -1,0 +1,31 @@
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\CapturaImagemWebCam.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DirectX.Capture.dll
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DShowNET.dll
+C:\Users\user\Downloads\WindowsFormsApplication1014\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\DirectX.Capture.dll
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\DShowNET.dll
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Downloads\WindowsFormsApplication1014\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csproj.GenerateResource.Cache
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\DirectX.Capture.dll
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\bin\Debug\DShowNET.dll
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csprojAssemblyReference.cache
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csproj.GenerateResource.cache
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csproj.CoreCompileInputs.cache
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\CapturaImagemWebCam.csproj.CopyComplete
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\joaot\OneDrive\Documentos\Visual Studio 2017\Backup Files\CapturaImagemWebCam\CapturaImagemWebCam\obj\x86\Debug\WindowsFormsApplication1.pdb
